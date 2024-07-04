@@ -7,4 +7,4 @@ Modules used:
 3.springMVC
 4.springRestAPI
 5.MySQL DataBase
-these are the modules used in the pharmacy-store-management-system
+these are the modules used in the pharma-store-management-system
