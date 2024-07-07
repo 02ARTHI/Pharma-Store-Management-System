@@ -29,3 +29,6 @@ Thymeleaf: Server-side Java template engine for dynamic HTML generation.
 MySQL: Relational database management system for data storage.
 
 features and functions of project
+
+![image](https://github.com/02ARTHI/Pharma-Store-Management-System/assets/164236172/cf46c633-01e7-4d49-8485-26d5e3fbd947)
+
