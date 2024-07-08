@@ -3,11 +3,9 @@
 ### Purpose of the project
 PharmaStore is a web based application.The main purpose of this project is to focus on real-life application scenarios. The agenda would be to build an application and implement the pharmacy inventory features.
 
-Scope 
-Order Management System for Steel Fabrication Factory is a web-based application that allows the admin to handle all the activities online quickly.
-So, the aim of the project is to provide products to customers. The customer can choose the products from the category and place the order. Users can request customized products to their own requirements and budget. Staff then can contact the user with the details provided by the user at the login time
-Staff will arrange the products as per the order and make them available for collection.
-Once the order is ready, the delivery agent will collect the products and they will be delivered to the customer at their residence
+### Scope <br>
+Pharma Store Management System for Medicines inventory is a web-based application that allows the admin to handle all the activities online quickly.
+So, the aim of the project is to check and keep track of products. The Admin can view the products from the list and track the list of medicines which are in stock. once stock of the products are available, Admin who is responsible to maintain the products will update the number of stock and expiration date of the item. when the medicines are out of stock, admin can delete the medicines that are out of stock
 
 ### Modules used:
 
@@ -18,7 +16,7 @@ Once the order is ready, the delivery agent will collect the products and they w
 5.MySQL DataBase <br>
 these are the modules used in the pharma-store-management-system
 
-### Features and functions of project
+## Features and functions of project
 
 ### Admin management :
 Easily add, update, and delete Medicines information.Efficiently manage your medicine database and Keep track of your supply items, including stock levels and pricing. Effectively manage your stock to optimize supply chain operations.
