@@ -1,7 +1,7 @@
 **PHARMA STORE MANAGEMENT APPLICATION**
 
 **Purpose of the project**: 
-The main purpose of this project is to focus on real-life application scenarios. The agenda would be to build an application and implement the banking features.
+The main purpose of this project is to focus on real-life application scenarios. The agenda would be to build an application and implement the pharmacy inventory features.
 
 **Modules used:**
 
