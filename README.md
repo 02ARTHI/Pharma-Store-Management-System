@@ -50,7 +50,9 @@ MySQL: Relational database management system for data storage.
  check the stocks availability and expiration date for the available medicines in our pharmastore 
  you can delete the product if its out of stock
 ```
+# User Interface
 
+## Admin Login:
 
 
 ![image](https://github.com/02ARTHI/Pharma-Store-Management-System/assets/164236172/cf46c633-01e7-4d49-8485-26d5e3fbd947)
