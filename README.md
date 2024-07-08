@@ -18,6 +18,14 @@ these are the modules used in the pharma-store-management-system
 
 ## Features and functions of project
 
+### Admin module
+Admin is the main role in the overall system. Admin can log in into the system using credential where admin credential was already stored in the database.
+After successful login into the admin dashboard, there are various operations that the admin can do mentioned below –
+
+* View customer: Admin is able to view the list of customers who are already registered into the system. Customer data is stored in a database so the admin can fetch those data to view the list of customers
+* Add remove staff: Admin can add staff by giving a particular role also admin is able to delete it from the system
+* View feedback: Admin can view feedback which is given by customers on products after purchasing
+
 ### Admin management :
 Easily add, update, and delete Medicines information.Efficiently manage your medicine database and Keep track of your supply items, including stock levels and pricing. Effectively manage your stock to optimize supply chain operations.
 
