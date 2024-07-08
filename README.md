@@ -1,13 +1,13 @@
-**PHARMA STORE MANAGEMENT APPLICATION**
+## PHARMA STORE MANAGEMENT APPLICATION
 
-**Purpose of the project**: 
+### Purpose of the project
 The main purpose of this project is to focus on real-life application scenarios. The agenda would be to build an application and implement the pharmacy inventory features.
 
 **Modules used:**
 
-1.springBoot
-2.springjpa
-3.springMVC
+1.springBoot <br>
+2.springjpa <br>
+3.springMVC <br>
 4.springRestAPI
 5.MySQL DataBase
 these are the modules used in the pharma-store-management-system
