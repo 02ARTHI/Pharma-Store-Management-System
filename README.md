@@ -9,11 +9,11 @@ So, the aim of the project is to check and keep track of products. The Admin can
 
 ### Modules used:
 
-1.springBoot <br>
-2.springjpa <br>
-3.springMVC <br>
-4.springRestAPI <br>
-5.MySQL DataBase <br>
+ * springBoot <br>
+ * springjpa <br>
+ * springMVC <br>
+ * springRestAPI <br>
+ * MySQL DataBase <br>
 these are the modules used in the pharma-store-management-system
 
 ## Features and functions of project
