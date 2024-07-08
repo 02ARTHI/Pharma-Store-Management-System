@@ -32,12 +32,13 @@ Thymeleaf: Server-side Java template engine for dynamic HTML generation.
 MySQL: Relational database management system for data storage.
 
 ## About This Project
+```
 * you can add new products <br>
 * update the products if there is any new stock available for that product <br>
 * check the stocks availability and expiration date for the available medicines in our pharmastore <br>
 * you can delete the product if its out of stock
-
 ```
+
 
 
 ![image](https://github.com/02ARTHI/Pharma-Store-Management-System/assets/164236172/cf46c633-01e7-4d49-8485-26d5e3fbd947)
