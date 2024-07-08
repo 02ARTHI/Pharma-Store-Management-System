@@ -28,7 +28,13 @@ Spring Boot: Backend framework for building Java-based web applications.
 Thymeleaf: Server-side Java template engine for dynamic HTML generation.
 MySQL: Relational database management system for data storage.
 
-features and functions of project
+**About This Project**
+you can add new products, update the products if there is any new stock available for that product
+check the stocks availability and expiration date for the available medicines in our pharmastore
+you can delete the product if its out of stock
+
+
+**Features and functions of project**
 
 ![image](https://github.com/02ARTHI/Pharma-Store-Management-System/assets/164236172/cf46c633-01e7-4d49-8485-26d5e3fbd947)
 
