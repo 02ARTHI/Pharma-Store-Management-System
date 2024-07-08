@@ -32,8 +32,8 @@ Thymeleaf: Server-side Java template engine for dynamic HTML generation.
 MySQL: Relational database management system for data storage.
 
 ## About This Project
-you can add new products, update the products if there is any new stock available for that product
-check the stocks availability and expiration date for the available medicines in our pharmastore
+you can add new products <br> update the products if there is any new stock available for that product <br>
+check the stocks availability and expiration date for the available medicines in our pharmastore <br>
 you can delete the product if its out of stock
 
 
