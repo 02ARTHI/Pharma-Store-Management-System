@@ -56,7 +56,8 @@ MySQL: Relational database management system for data storage.
 
 
 
-![image](https://github.com/user-attachments/assets/e716022c-e279-4f07-b329-5d2a1162639f)
+![image](https://github.com/user-attachments/assets/5dc50d9b-2082-41fc-98b4-ef7f1de887e2)
+
 
 ## view medicine details
 
