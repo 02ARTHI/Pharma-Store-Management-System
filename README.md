@@ -63,20 +63,23 @@ MySQL: Relational database management system for data storage.
 
 
 
-![image](https://github.com/user-attachments/assets/46a815eb-78e9-4852-8870-3230733332ca)
+![image](https://github.com/user-attachments/assets/6b6ce571-ed99-4c14-92d1-af24a15874d5)
+
 
 ## Add a new Medicine to the Store 
 
 
 
-![image](https://github.com/user-attachments/assets/be5ef5b0-a2d4-4590-a697-6ae395a08544)
+![image](https://github.com/user-attachments/assets/b35dec1a-49cb-426f-bc04-91e5dc6b157e)
+
 
 
 ## Update stock or other details for a medicine
 
 
 
-![image](https://github.com/user-attachments/assets/b6de7192-ee0d-455e-b3ef-97f111f0ef05)
+![image](https://github.com/user-attachments/assets/8a96d555-f2f9-4e0c-9974-ae3bbc1e0027)
+
 
 
 
