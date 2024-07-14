@@ -55,9 +55,11 @@ MySQL: Relational database management system for data storage.
 ## Admin Home page:
 
 
+
 ![image](https://github.com/user-attachments/assets/e716022c-e279-4f07-b329-5d2a1162639f)
 
 ## view medicine details
+
 
 
 ![image](https://github.com/user-attachments/assets/46a815eb-78e9-4852-8870-3230733332ca)
@@ -65,12 +67,16 @@ MySQL: Relational database management system for data storage.
 ## Add a new Medicine to the Store 
 
 
-![image](https://github.com/user-attachments/assets/f2553a25-8cc1-4be2-a805-2adc7a8557b4)
+
+![image](https://github.com/user-attachments/assets/be5ef5b0-a2d4-4590-a697-6ae395a08544)
+
 
 ## Update stock or other details for a medicine
 
 
-![image](https://github.com/user-attachments/assets/06364240-a21f-4ebb-aee3-0d9dd25e14e3)
+
+![image](https://github.com/user-attachments/assets/b6de7192-ee0d-455e-b3ef-97f111f0ef05)
+
 
 
 
