@@ -52,8 +52,26 @@ MySQL: Relational database management system for data storage.
 ```
 # User Interface
 
-## Admin Login:
+## Admin Home page:
 
 
-![image](https://github.com/02ARTHI/Pharma-Store-Management-System/assets/164236172/cf46c633-01e7-4d49-8485-26d5e3fbd947)
+![image](https://github.com/user-attachments/assets/e716022c-e279-4f07-b329-5d2a1162639f)
+
+## view medicine details
+
+
+![image](https://github.com/user-attachments/assets/46a815eb-78e9-4852-8870-3230733332ca)
+
+## Add a new Medicine to the Store 
+
+
+![image](https://github.com/user-attachments/assets/f2553a25-8cc1-4be2-a805-2adc7a8557b4)
+
+## Update stock or other details for a medicine
+
+
+![image](https://github.com/user-attachments/assets/06364240-a21f-4ebb-aee3-0d9dd25e14e3)
+
+
+
 
