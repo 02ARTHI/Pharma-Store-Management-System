@@ -81,7 +81,24 @@ MySQL: Relational database management system for data storage.
 ![image](https://github.com/user-attachments/assets/8a96d555-f2f9-4e0c-9974-ae3bbc1e0027)
 
 
+# Launching Swagger UI
+Swagger UI Is available at Http://localhost:9097/swagger-ui.html
+Below screenshot shows the Home Page of Swagger UI. It shows a list of all the resources that are exposed.
+It shows all the request methods that can be used with a Resource.
+You can also see the details for a Specific Request Method.
 
+## Swagger UI Documentation
 
+![image](https://github.com/user-attachments/assets/b13ef4a1-fb06-4db3-bc6c-1107dddcd56e)
 
+### It shows all the request methods that can be used with a Resource.
 
+![image](https://github.com/user-attachments/assets/2366888c-30e7-4626-b9c3-5f72db59cd30)
+
+### You can also see the details for a Specific Request Method.
+
+![image](https://github.com/user-attachments/assets/67ac987f-b659-4310-a52a-3bbb7448f9f1)
+
+### use the ‘Try it out’ button to execute a request and see the response
+
+![image](https://github.com/user-attachments/assets/f6708820-df42-46c4-9d6a-530ba10f4ea6)
