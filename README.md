@@ -13,6 +13,7 @@ So, the aim of the project is to check and keep track of products. The Admin can
  * springjpa <br>
  * springMVC <br>
  * springRestAPI <br>
+ * springSecurity <br>
  * MySQL DataBase <br>
 these are the modules used in the pharma-store-management-system
 
