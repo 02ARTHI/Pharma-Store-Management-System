@@ -17,6 +17,7 @@ So, the aim of the project is to check and keep track of products. The Admin can
  * springDevTools <br>
  * MySQL DataBase <br>
  * Swagger-UI <br>
+ * Thymeleaf
 these are the modules used in the pharma-store-management-system
 
 ## Features and functions of project
