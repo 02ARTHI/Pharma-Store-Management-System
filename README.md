@@ -27,7 +27,10 @@ Pharma store Management System uses HTML to develop the web elements and CSS to 
 ## Server-side: Servlet, Spring MVC.
 PMS is using Servet and Spring MVC to manage the server-side programming also it will handle the request and responses.
 
-
+## Back-end: MYSQL, Hibernate.
+MYSQL is a database and hibernate is an ORM tool that helps to perform transactions with the database.
+Server: Tomcat 8.5.
+Its a web application and uses a tomcat server to deploy and run the application
 
 ## Features and functions of project
 
