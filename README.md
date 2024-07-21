@@ -21,7 +21,7 @@ So, the aim of the project is to check and keep track of products. The Admin can
 these are the modules used in the pharma-store-management-system
 
 ### Used Tool and Technologies:
-## Front-End: JSP, Html, CSS, JS. 
+## Front-End: JSP, Html, CSS. 
 Pharma store Management System uses HTML to develop the web elements and CSS to style these elements. It uses JSP to manage the response that is coming from the server side.
 
 ## Server-side: Servlet, Spring MVC.
