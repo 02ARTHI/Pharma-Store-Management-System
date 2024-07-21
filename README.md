@@ -12,11 +12,11 @@ So, the aim of the project is to check and keep track of products. The Admin can
 **Spring Data JPA:** For object-relational mapping (ORM) and database interactions. <br>
 **Spring MVC:** To implement the Model-View-Controller architecture. <br>
 **JSP and JSTL:** As the template engine for server-side rendering. <br>
-**MySQL:** As the relational database to store and manage data.
-**HTML:** To define the frontend elements.
-**Bootstrap and CSS:** For Styling.
-**Server:** Tomcat(For localhost deployment).
-**Swagger-UI:** <br>
+**MySQL:** As the relational database to store and manage data. <br>
+**HTML:** To define the frontend elements. <br>
+**Bootstrap and CSS:** For Styling. <br>
+**Server:** Tomcat(For localhost deployment). <br>
+**Swagger-UI:** <br> 
 
 these are the modules used in the pharma-store-management-system
 
