@@ -29,7 +29,7 @@ PMS is using Servet and Spring MVC to manage the server-side programming also it
 
 ## Back-end: MYSQL, Hibernate.
 MYSQL is a database and hibernate is an ORM tool that helps to perform transactions with the database.
-Server: Tomcat 8.5.
+Server: Tomcat.
 Its a web application and uses a tomcat server to deploy and run the application
 
 ## Features and functions of project
