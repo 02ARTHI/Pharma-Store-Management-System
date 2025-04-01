@@ -15,7 +15,7 @@ So, the aim of the project is to check and keep track of products. The Admin can
 **MySQL:** As the relational database to store and manage data. <br>
 **HTML:** To define the frontend elements. <br>
 **Bootstrap and CSS:** For Styling. <br> 
-**Server:** Tomcat(For localhost deployment). <br>
+**Server:** Tomcat(For localhost deployment). <br> 
 **Swagger-UI:** <br> 
 
 these are the modules used in the pharma-store-management-system
