@@ -7,7 +7,7 @@ PharmaStore is a web based application.The main purpose of this project is to fo
 Pharma Store Management System for Medicines inventory is a web-based application that allows the admin to handle all the activities online quickly.
 So, the aim of the project is to check and keep track of products. The Admin can view the products from the list and track the list of medicines which are in stock. once stock of the products are available, Admin who is responsible to maintain the products will update the number of stock and expiration date of the item. when the medicines are out of stock, admin can delete the medicines that are out of stock
 
-### Technology Stack: 
+### Technology Stack:  
 **Spring Boot:** For rapid development of the application with minimal configuration. <br>
 **Spring Data JPA:** For object-relational mapping (ORM) and database interactions. <br>
 **Spring MVC:** To implement the Model-View-Controller architecture. <br>
