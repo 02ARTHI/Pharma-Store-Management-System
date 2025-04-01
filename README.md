@@ -14,7 +14,7 @@ So, the aim of the project is to check and keep track of products. The Admin can
 **JSP and JSTL:** As the template engine for server-side rendering. <br>
 **MySQL:** As the relational database to store and manage data. <br>
 **HTML:** To define the frontend elements. <br>
-**Bootstrap and CSS:** For Styling. <br>
+**Bootstrap and CSS:** For Styling. <br> 
 **Server:** Tomcat(For localhost deployment). <br>
 **Swagger-UI:** <br> 
 
