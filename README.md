@@ -10,7 +10,7 @@ So, the aim of the project is to check and keep track of products. The Admin can
 ### Technology Stack:  
 **Spring Boot:** For rapid development of the application with minimal configuration. <br>
 **Spring Data JPA:** For object-relational mapping (ORM) and database interactions. <br>
-**Spring MVC:** To implement the Model-View-Controller architecture. <br>
+**Spring MVC:** To implement the Model-View-Controller architecture. <br> 
 **JSP and JSTL:** As the template engine for server-side rendering. <br>
 **MySQL:** As the relational database to store and manage data. <br>
 **HTML:** To define the frontend elements. <br>
