@@ -1,7 +1,7 @@
 # PHARMA STORE MANAGEMENT APPLICATION
 
 ### Purpose of the project
-PharmaStore is a web based application.The main purpose of this project is to focus on real-life application scenarios. The agenda would be to build an application and implement the pharmacy inventory features.
+PharmaStore is a web based application.The main purpose of this project is to focus on real-life application scenarios. The agenda would be to build an application and implement the pharmacy inventory features. 
 
 ### Scope: <br> 
 Pharma Store Management System for Medicines inventory is a web-based application that allows the admin to handle all the activities online quickly.
